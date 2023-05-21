@@ -3,6 +3,7 @@
   "author": "Dibah Ariffin",
   "description": "A project to learn how packages using Node.js works",
   "keywords": ["github", "backend", "node", "freecodecamp"],
+  "license": "MIT",
   "dependencies": {
     "express": "^4.14.0"
   },
