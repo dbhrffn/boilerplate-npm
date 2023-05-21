@@ -4,6 +4,7 @@
   "description": "A project to learn how packages using Node.js works",
   "keywords": ["github", "backend", "node", "freecodecamp"],
   "license": "MIT",
+  "version": "1.2.0",
   "dependencies": {
     "express": "^4.14.0"
   },
