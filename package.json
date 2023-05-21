@@ -4,10 +4,13 @@
   "description": "A project to learn how packages using Node.js works",
   "keywords": ["github", "backend", "node", "freecodecamp"],
   "license": "MIT",
-  "version": "1.0",
+  "version": "1.2.0",
   "dependencies": {
     "package-name": "@freecodecamp/example",
-    "express": "1.1.0"
+    "version": "1.1.0"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
   },
   "main": "server.js",
   "scripts": {
@@ -16,8 +19,5 @@
   "repository": {
     "type": "git",
     "url": "https://idontknow/todo.git"
-  },
-  "dependencies": {
-    "express": "^4.14.0"
-  },
+  }
 }
